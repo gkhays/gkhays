@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+<div align="center">
+
+<a href="https://github.com/gkhays/github-stats">
+  
+![](https://raw.githubusercontent.com/gkhays/github-stats/master/generated/overview.svg)
+![](https://github.com/gkhays/github-stats/blob/master/generated/languages.svg)
+
+</a>
+
+</div>
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gkhays&count_private=true&show_icons=true)](https://github.com/gkhays/)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhays&langs_count=5)]()
 
