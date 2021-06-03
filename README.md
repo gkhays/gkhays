@@ -4,8 +4,8 @@
 
 <a href="https://github.com/gkhays/github-stats">
   
-![](https://raw.githubusercontent.com/gkhays/github-stats/master/generated/overview.svg)
-![](https://github.com/gkhays/github-stats/blob/master/generated/languages.svg)
+![GitHub Stats](https://raw.githubusercontent.com/gkhays/github-stats/master/generated/overview.svg)
+![GitHub Language Stats](https://github.com/gkhays/github-stats/blob/master/generated/languages.svg)
 
 </a>
 
