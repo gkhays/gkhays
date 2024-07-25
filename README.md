@@ -1,4 +1,4 @@
-### GK Hays
+### Garve Hays
 - I’m currently working on enterprise cyber security
 - ⚡ Fun fact: I started my career as an Aerospace Engineer
 
